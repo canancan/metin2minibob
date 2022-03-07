@@ -1,0 +1,216 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Metin2 Mini BoB
+</name>
+</assembly>
+<members>
+<member name="T:Metin2_MiniBob.My.Resources.Resources">
+<summary>
+  Yerelleştirilmiş dizeleri aramak gibi işlemler için, türü kesin olarak belirtilmiş kaynak sınıfı.
+</summary>
+</member>
+<member name="P:Metin2_MiniBob.My.Resources.Resources.ResourceManager">
+<summary>
+  Bu sınıf tarafından kullanılan, önbelleğe alınmış ResourceManager örneğini döndürür.
+</summary>
+</member>
+<member name="P:Metin2_MiniBob.My.Resources.Resources.Culture">
+<summary>
+  Tümü için geçerli iş parçacığının CurrentUICulture özelliğini geçersiz kular
+  CurrentUICulture özelliğini tüm kaynak aramaları için geçersiz kılar.
+</summary>
+</member>
+<member name="P:Metin2_MiniBob.My.Resources.Resources._71044NO">
+<summary>
+  System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+</summary>
+</member>
+<member name="P:Metin2_MiniBob.My.Resources.Resources._71044YES">
+<summary>
+  System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+</summary>
+</member>
+<member name="P:Metin2_MiniBob.My.Resources.Resources._71045NO">
+<summary>
+  System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+</summary>
+</member>
+<member name="P:Metin2_MiniBob.My.Resources.Resources._71045YES">
+<summary>
+  System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+</summary>
+</member>
+<member name="P:Metin2_MiniBob.My.Resources.Resources.assassin_m">
+<summary>
+  System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+</summary>
+</member>
+<member name="P:Metin2_MiniBob.My.Resources.Resources.assassin_w">
+<summary>
+  System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+</summary>
+</member>
+<member name="P:Metin2_MiniBob.My.Resources.Resources.attackNO">
+<summary>
+  System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+</summary>
+</member>
+<member name="P:Metin2_MiniBob.My.Resources.Resources.attackspeedNO">
+<summary>
+  System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+</summary>
+</member>
+<member name="P:Metin2_MiniBob.My.Resources.Resources.attackspeedYES">
+<summary>
+  System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+</summary>
+</member>
+<member name="P:Metin2_MiniBob.My.Resources.Resources.attackYES">
+<summary>
+  System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+</summary>
+</member>
+<member name="P:Metin2_MiniBob.My.Resources.Resources.geri">
+<summary>
+  System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+</summary>
+</member>
+<member name="P:Metin2_MiniBob.My.Resources.Resources.GhostModeOff">
+<summary>
+  System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+</summary>
+</member>
+<member name="P:Metin2_MiniBob.My.Resources.Resources.GhostModeOn">
+<summary>
+  System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+</summary>
+</member>
+<member name="P:Metin2_MiniBob.My.Resources.Resources.horseNO">
+<summary>
+  System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+</summary>
+</member>
+<member name="P:Metin2_MiniBob.My.Resources.Resources.horseNOBIG">
+<summary>
+  System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+</summary>
+</member>
+<member name="P:Metin2_MiniBob.My.Resources.Resources.horseYES">
+<summary>
+  System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+</summary>
+</member>
+<member name="P:Metin2_MiniBob.My.Resources.Resources.ileri">
+<summary>
+  System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+</summary>
+</member>
+<member name="P:Metin2_MiniBob.My.Resources.Resources.Logo">
+<summary>
+  System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+</summary>
+</member>
+<member name="P:Metin2_MiniBob.My.Resources.Resources.metin2_map_c1">
+<summary>
+  System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+</summary>
+</member>
+<member name="P:Metin2_MiniBob.My.Resources.Resources.notsize">
+<summary>
+  System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+</summary>
+</member>
+<member name="P:Metin2_MiniBob.My.Resources.Resources.notsize1">
+<summary>
+  System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+</summary>
+</member>
+<member name="P:Metin2_MiniBob.My.Resources.Resources.shaman_m">
+<summary>
+  System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+</summary>
+</member>
+<member name="P:Metin2_MiniBob.My.Resources.Resources.shaman_w">
+<summary>
+  System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+</summary>
+</member>
+<member name="P:Metin2_MiniBob.My.Resources.Resources.sura_m">
+<summary>
+  System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+</summary>
+</member>
+<member name="P:Metin2_MiniBob.My.Resources.Resources.sura_w">
+<summary>
+  System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+</summary>
+</member>
+<member name="P:Metin2_MiniBob.My.Resources.Resources.Sürüm">
+<summary>
+  System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+</summary>
+</member>
+<member name="P:Metin2_MiniBob.My.Resources.Resources.usesize">
+<summary>
+  System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+</summary>
+</member>
+<member name="P:Metin2_MiniBob.My.Resources.Resources.walkspeedYES">
+<summary>
+  System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+</summary>
+</member>
+<member name="P:Metin2_MiniBob.My.Resources.Resources.wallNO">
+<summary>
+  System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+</summary>
+</member>
+<member name="P:Metin2_MiniBob.My.Resources.Resources.wallYES">
+<summary>
+  System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+</summary>
+</member>
+<member name="P:Metin2_MiniBob.My.Resources.Resources.warrior_m">
+<summary>
+  System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+</summary>
+</member>
+<member name="P:Metin2_MiniBob.My.Resources.Resources.warrior_w">
+<summary>
+  System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+</summary>
+</member>
+<member name="P:Metin2_MiniBob.My.Resources.Resources.yellow_clock_icon">
+<summary>
+  System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+</summary>
+</member>
+<member name="P:Metin2_MiniBob.My.Resources.Resources.yellow_clock_icon1">
+<summary>
+  System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+</summary>
+</member>
+<member name="P:Metin2_MiniBob.My.Resources.Resources.Zoom_In_icon">
+<summary>
+  System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+</summary>
+</member>
+<member name="P:Metin2_MiniBob.My.Resources.Resources.Zoom_Out_icon">
+<summary>
+  System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+</summary>
+</member>
+<member name="P:Metin2_MiniBob.My.Resources.Resources.ZoomHackNO">
+<summary>
+  System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+</summary>
+</member>
+<member name="P:Metin2_MiniBob.My.Resources.Resources.ZoomHackYES">
+<summary>
+  System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+</summary>
+</member>
+</members>
+</doc>

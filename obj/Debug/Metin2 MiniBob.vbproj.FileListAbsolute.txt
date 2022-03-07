@@ -1,0 +1,63 @@
+c:\users\sertcocuk87\documents\visual studio 2013\Projects\Metin2 MiniBob\Metin2 MiniBob\bin\Debug\Metin2 MiniBob.exe.config
+c:\users\sertcocuk87\documents\visual studio 2013\Projects\Metin2 MiniBob\Metin2 MiniBob\obj\Debug\Metin2_MiniBob.Form1.resources
+c:\users\sertcocuk87\documents\visual studio 2013\Projects\Metin2 MiniBob\Metin2 MiniBob\obj\Debug\Metin2_MiniBob.Resources.resources
+c:\users\sertcocuk87\documents\visual studio 2013\Projects\Metin2 MiniBob\Metin2 MiniBob\obj\Debug\Metin2 MiniBob.vbproj.GenerateResource.Cache
+c:\users\sertcocuk87\documents\visual studio 2013\Projects\Metin2 MiniBob\Metin2 MiniBob\bin\Debug\Metin2 MiniBob.exe
+c:\users\sertcocuk87\documents\visual studio 2013\Projects\Metin2 MiniBob\Metin2 MiniBob\bin\Debug\Metin2 MiniBob.pdb
+c:\users\sertcocuk87\documents\visual studio 2013\Projects\Metin2 MiniBob\Metin2 MiniBob\bin\Debug\Metin2 MiniBob.xml
+c:\users\sertcocuk87\documents\visual studio 2013\Projects\Metin2 MiniBob\Metin2 MiniBob\obj\Debug\Metin2 MiniBob.exe
+c:\users\sertcocuk87\documents\visual studio 2013\Projects\Metin2 MiniBob\Metin2 MiniBob\obj\Debug\Metin2 MiniBob.xml
+c:\users\sertcocuk87\documents\visual studio 2013\Projects\Metin2 MiniBob\Metin2 MiniBob\obj\Debug\Metin2 MiniBob.pdb
+C:\Users\Sertcocuk87\Documents\Visual Studio 2013\Projects\Metin2 MiniBob\Metin2 MiniBob\obj\Debug\Metin2_MiniBob.Yeni_Sürüm_Kurulumu.resources
+C:\Users\Sertcocuk87\Documents\Visual Studio 2013\Projects\Metin2 MiniBob - Kopya\Metin2 MiniBob\bin\Debug\Metin2 MiniBob.exe.config
+C:\Users\Sertcocuk87\Documents\Visual Studio 2013\Projects\Metin2 MiniBob - Kopya\Metin2 MiniBob\obj\Debug\Metin2 MiniBob.exe
+C:\Users\Sertcocuk87\Documents\Visual Studio 2013\Projects\Metin2 MiniBob - Kopya\Metin2 MiniBob\obj\Debug\Metin2 MiniBob.xml
+C:\Users\Sertcocuk87\Documents\Visual Studio 2013\Projects\Metin2 MiniBob - Kopya\Metin2 MiniBob\obj\Debug\Metin2 MiniBob.pdb
+C:\Users\Sertcocuk87\Desktop\Metin2 MiniBob - Kopya\Metin2 MiniBob\bin\Debug\Metin2 MiniBob.exe.config
+C:\Users\Sertcocuk87\Desktop\Metin2 MiniBob - Kopya\Metin2 MiniBob\obj\Debug\Metin2 MiniBob.exe
+C:\Users\Sertcocuk87\Desktop\Metin2 MiniBob - Kopya\Metin2 MiniBob\obj\Debug\Metin2 MiniBob.xml
+C:\Users\Sertcocuk87\Desktop\Metin2 MiniBob - Kopya\Metin2 MiniBob\obj\Debug\Metin2 MiniBob.pdb
+C:\Users\Sertcocuk87\Desktop\Metin2 MiniBob - Kopya\Metin2 MiniBob\obj\Debug\Metin2_MiniBob.Form1.resources
+C:\Users\Sertcocuk87\Desktop\Metin2 MiniBob - Kopya\Metin2 MiniBob\obj\Debug\Metin2_MiniBob.Yeni_Sürüm_Kurulumu.resources
+C:\Users\Sertcocuk87\Desktop\Metin2 MiniBob - Kopya\Metin2 MiniBob\obj\Debug\Metin2 MiniBob.vbproj.GenerateResource.Cache
+C:\Users\Sertcocuk87\Desktop\Metin2 MiniBob - Kopya\Metin2 MiniBob\bin\Debug\Metin2 MiniBob.exe
+C:\Users\Sertcocuk87\Desktop\Metin2 MiniBob - Kopya\Metin2 MiniBob\bin\Debug\Metin2 MiniBob.pdb
+C:\Users\Sertcocuk87\Desktop\Metin2 MiniBob - Kopya\Metin2 MiniBob\bin\Debug\Metin2 MiniBob.xml
+C:\Users\Sertcocuk87\Desktop\Metin2 MiniBob - Kopya\Metin2 MiniBob\obj\Debug\Metin2_MiniBob.Resources.resources
+D:\Sosyal Mühendislik Arşiv\MemoryHacks\Visual Basic Hile Projeleri\METIN2 PVP MINI BOB\Metin2 MiniBob\obj\Debug\Metin2_MiniBob.Form1.resources
+D:\Sosyal Mühendislik Arşiv\MemoryHacks\Visual Basic Hile Projeleri\METIN2 PVP MINI BOB\Metin2 MiniBob\obj\Debug\Metin2_MiniBob.Resources.resources
+D:\Sosyal Mühendislik Arşiv\MemoryHacks\Visual Basic Hile Projeleri\METIN2 PVP MINI BOB\Metin2 MiniBob\obj\Debug\Metin2_MiniBob.Yeni_Sürüm_Kurulumu.resources
+D:\Sosyal Mühendislik Arşiv\MemoryHacks\Visual Basic Hile Projeleri\METIN2 PVP MINI BOB\Metin2 MiniBob\obj\Debug\Metin2 MiniBob.vbproj.GenerateResource.Cache
+D:\Sosyal Mühendislik Arşiv\MemoryHacks\Visual Basic Hile Projeleri\METIN2 PVP MINI BOB\Metin2 MiniBob\obj\Debug\Metin2 MiniBob.vbprojResolveAssemblyReference.cache
+D:\Sosyal Mühendislik Arşiv\MemoryHacks\Visual Basic Hile Projeleri\METIN2 PVP MINI BOB\Metin2 MiniBob\bin\Debug\Metin2 Mini BoB.exe.config
+D:\Sosyal Mühendislik Arşiv\MemoryHacks\Visual Basic Hile Projeleri\METIN2 PVP MINI BOB\Metin2 MiniBob\bin\Debug\Metin2 Mini BoB.exe
+D:\Sosyal Mühendislik Arşiv\MemoryHacks\Visual Basic Hile Projeleri\METIN2 PVP MINI BOB\Metin2 MiniBob\bin\Debug\Metin2 Mini BoB.pdb
+D:\Sosyal Mühendislik Arşiv\MemoryHacks\Visual Basic Hile Projeleri\METIN2 PVP MINI BOB\Metin2 MiniBob\bin\Debug\Metin2 Mini BoB.xml
+D:\Sosyal Mühendislik Arşiv\MemoryHacks\Visual Basic Hile Projeleri\METIN2 PVP MINI BOB\Metin2 MiniBob\obj\Debug\Metin2 Mini BoB.exe
+D:\Sosyal Mühendislik Arşiv\MemoryHacks\Visual Basic Hile Projeleri\METIN2 PVP MINI BOB\Metin2 MiniBob\obj\Debug\Metin2 Mini BoB.xml
+D:\Sosyal Mühendislik Arşiv\MemoryHacks\Visual Basic Hile Projeleri\METIN2 PVP MINI BOB\Metin2 MiniBob\obj\Debug\Metin2 Mini BoB.pdb
+D:\Projeler\METIN2 PVP MINI BOB\Metin2 MiniBob\bin\Debug\Metin2 Mini BoB.exe.config
+D:\Projeler\METIN2 PVP MINI BOB\Metin2 MiniBob\obj\Debug\Metin2 Mini BoB.exe
+D:\Projeler\METIN2 PVP MINI BOB\Metin2 MiniBob\obj\Debug\Metin2 Mini BoB.xml
+D:\Projeler\METIN2 PVP MINI BOB\Metin2 MiniBob\obj\Debug\Metin2 Mini BoB.pdb
+D:\Projeler\METIN2 PVP MINI BOB\Metin2 MiniBob\bin\Debug\Metin2 Mini BoB.exe
+D:\Projeler\METIN2 PVP MINI BOB\Metin2 MiniBob\bin\Debug\Metin2 Mini BoB.pdb
+D:\Projeler\METIN2 PVP MINI BOB\Metin2 MiniBob\bin\Debug\Metin2 Mini BoB.xml
+D:\Projeler\METIN2 PVP MINI BOB\Metin2 MiniBob\obj\Debug\Metin2 MiniBob.vbprojResolveAssemblyReference.cache
+D:\Projeler\METIN2 PVP MINI BOB\Metin2 MiniBob\obj\Debug\Metin2_MiniBob.Form1.resources
+D:\Projeler\METIN2 PVP MINI BOB\Metin2 MiniBob\obj\Debug\Metin2_MiniBob.Resources.resources
+D:\Projeler\METIN2 PVP MINI BOB\Metin2 MiniBob\obj\Debug\Metin2_MiniBob.Yeni_Sürüm_Kurulumu.resources
+D:\Projeler\METIN2 PVP MINI BOB\Metin2 MiniBob\obj\Debug\Metin2 MiniBob.vbproj.GenerateResource.Cache
+C:\Users\ibrhim\Desktop\METIN2 PVP MINI BOBy\Metin2 MiniBob\obj\Debug\Metin2 MiniBob.vbproj.AssemblyReference.cache
+C:\Users\ibrhim\Desktop\METIN2 PVP MINI BOBy\Metin2 MiniBob\obj\Debug\Metin2 MiniBob.vbproj.SuggestedBindingRedirects.cache
+C:\Users\ibrhim\Desktop\METIN2 PVP MINI BOBy\Metin2 MiniBob\obj\Debug\Metin2_MiniBob.Form1.resources
+C:\Users\ibrhim\Desktop\METIN2 PVP MINI BOBy\Metin2 MiniBob\obj\Debug\Metin2_MiniBob.Resources.resources
+C:\Users\ibrhim\Desktop\METIN2 PVP MINI BOBy\Metin2 MiniBob\obj\Debug\Metin2 MiniBob.vbproj.GenerateResource.cache
+C:\Users\ibrhim\Desktop\METIN2 PVP MINI BOBy\Metin2 MiniBob\obj\Debug\Metin2 MiniBob.vbproj.CoreCompileInputs.cache
+C:\Users\ibrhim\Desktop\METIN2 PVP MINI BOBy\Metin2 MiniBob\obj\Debug\Metin2 Mini BoB.exe
+C:\Users\ibrhim\Desktop\METIN2 PVP MINI BOBy\Metin2 MiniBob\obj\Debug\Metin2 Mini BoB.xml
+C:\Users\ibrhim\Desktop\METIN2 PVP MINI BOBy\Metin2 MiniBob\obj\Debug\Metin2 Mini BoB.pdb
+C:\Users\ibrhim\Desktop\METIN2 PVP MINI BOBy\Metin2 MiniBob\bin\Debug\Metin2 Mini BoB.exe.config
+C:\Users\ibrhim\Desktop\METIN2 PVP MINI BOBy\Metin2 MiniBob\bin\Debug\Metin2 Mini BoB.exe
+C:\Users\ibrhim\Desktop\METIN2 PVP MINI BOBy\Metin2 MiniBob\bin\Debug\Metin2 Mini BoB.pdb
+C:\Users\ibrhim\Desktop\METIN2 PVP MINI BOBy\Metin2 MiniBob\bin\Debug\Metin2 Mini BoB.xml
